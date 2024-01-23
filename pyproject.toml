@@ -9,6 +9,7 @@ packages = [{include = "poetry_test"}]
 [tool.poetry.dependencies]
 python = "^3.12"
 pendulum = "^3.0.0"
+pandas = "2.2.0"
 
 
 [build-system]
